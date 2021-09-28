@@ -14,7 +14,7 @@ var computerArrows = []
 var arrow;
 
 function preload(){
-  backgroundImg = loadImage("background.gif");
+  backgroundImg = loadImage("assets/background.gif")
 }
 
 
